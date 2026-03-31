@@ -1,4 +1,4 @@
-pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.20.0 # not directly required, pinned by Snyk to avoid a vulnerability
 requests>=2.32.2
 PyJWT>=2.0.0, <3.0.0
 aiohttp>=3.10.2
