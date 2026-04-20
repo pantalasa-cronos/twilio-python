@@ -6,7 +6,7 @@ on:
 jobs:
   validate:
     name: Validate title
-    runs-on: ubuntu-latest
+    runs-on: cronos
     steps:
       - uses: amannn/action-semantic-pull-request@v5
         with:
